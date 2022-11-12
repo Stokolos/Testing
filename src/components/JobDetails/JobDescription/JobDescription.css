@@ -1,0 +1,21 @@
+.text-content-style {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.5625px;
+    color: #3A4562;
+    font-stretch: 100;
+}
+
+.header {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.625px;
+    color: #3A4562;
+}
+
+.wrapper-job-description {
+    padding-bottom: 5%;
+    
+}

@@ -1,0 +1,51 @@
+.contacts-info {
+  background-color: #2a3047;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-top: 50px;
+  margin-right: 50px;
+  padding: 30px 50px 20px 50px;
+  width: 400px;
+}
+
+.contacts-name,
+.contacts-address,
+.contacts-phone,
+.contacts-mail {
+  margin: 0;
+  color: #fff;
+}
+
+.map {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin-right: 50px;
+  width: 500px;
+}
+
+.contacts-name {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.625px;
+  color: #e7eaf0;
+}
+
+.contacts-address {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.5625px;
+  color: #e8ebf3;
+  font-stretch: 100;
+}
+
+.contacts-phone,
+.contacts-mail {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.5625px;
+  color: #e8ebf3;
+  font-stretch: 100;
+}
